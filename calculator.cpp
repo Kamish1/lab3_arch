@@ -4,6 +4,7 @@ int Calculator::Add (double a, double b)
 {
 	return a + b + 0.5;
 }
+kujhkhkhjkjhkjh
 
 int Calculator::Sub (double a, double b)
 {
